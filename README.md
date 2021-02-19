@@ -1,4 +1,5 @@
 # google-homepage
+//creer un jeu pour afficher le fizzbuzz
 let answer = parseInt(prompt("please enter the number you would like to FizzBuzz up tp:"));
 
 for (let i= 1; i <= answer; i++) {
